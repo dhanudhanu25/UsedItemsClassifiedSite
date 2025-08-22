@@ -2,7 +2,7 @@
 
 #### Please give this project a star if this helped you in any way.
 
-Second Hand Seller is a MERN Stack based on e-commerce web application. It is a MERN project where used products can be sold & bought from the comfort of home through the website.
+Used Items Classified Site is a MERN Stack based on e-commerce web application. It is a MERN project where used products can be sold & bought from the comfort of home through the website.
 
 # A complete MERN E-Commerce Website
 
